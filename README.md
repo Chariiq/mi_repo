@@ -1,1 +1,1 @@
-El primer fichero del primer repositorio de <Chari>
+El primer fichero del primer repositorio de <PruebasChari>
